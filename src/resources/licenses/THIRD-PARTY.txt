@@ -1,0 +1,23 @@
+Keylane 1.0 third-party notices
+
+The original Keylane application and SVG icon are MIT licensed. See LICENSE.
+Python 3.12: Python Software Foundation license; bundled license enclosed.
+Qt / PySide6 / Shiboken 6.12.0: LGPL v3 / GPL v3 / commercial multi-license.
+This distribution uses the open-source licensing option. LGPL-3.0 and GPL-3.0
+texts and the Qt GPL exception are enclosed. Original application source and
+rebuild instructions accompany the delivery so bundled Qt libraries can be
+replaced by rebuilding. No restriction on reverse engineering for debugging
+modifications to LGPL components is imposed by this application.
+
+Qt and PySide corresponding source:
+https://download.qt.io/official_releases/qt/
+https://download.qt.io/official_releases/QtForPython/
+https://code.qt.io/cgit/pyside/pyside-setup.git/
+Qt source version: 6.12.0. PySide and Shiboken source version: 6.12.0.
+PyInstaller 6.22.3: GPL v2 with the bootloader exception; its own license
+and exception are included where supplied by the installed distribution.
+Build tool: https://github.com/pyinstaller/pyinstaller
+
+Qt's own third-party component notices and source licenses:
+https://doc.qt.io/qt-6/licenses-used-in-qt.html
+All marks and third-party components remain the property of their owners.
